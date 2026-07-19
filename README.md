@@ -7,7 +7,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge"/>
