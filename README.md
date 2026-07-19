@@ -77,7 +77,7 @@ The repository contains optimized solutions, explanations, complexity analysis, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java"/> <br>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge"/>
