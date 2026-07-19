@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Interview%20Prep-00C853?style=for-the-badge"/>
